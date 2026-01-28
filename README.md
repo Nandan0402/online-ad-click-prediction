@@ -1,7 +1,8 @@
 📢 Online Ad Click Prediction using Machine Learning 📊🤖
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/advertising.png"/>
+ <img src="https://img.icons8.com/color/96/marketing.png"/>
+
   <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
   <img src="https://img.icons8.com/color/96/combo-chart--v1.png"/>
 </p>
