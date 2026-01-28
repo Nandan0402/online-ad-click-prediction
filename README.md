@@ -1,6 +1,14 @@
 📢 Online Ad Click Prediction using Machine Learning 📊🤖
-<p align="center"> <img src="https://img.icons8.com/color/96/online-advertising.png"/> <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/> <img src="https://img.icons8.com/color/96/combo-chart--v1.png"/> </p> <p align="center"> <b>A beginner-friendly Machine Learning classification project to predict user ad click behavior</b> </p>
-🚀 Project Overview
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/advertising.png"/>
+  <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
+  <img src="https://img.icons8.com/color/96/combo-chart--v1.png"/>
+</p>
+
+<p align="center">
+  <b>A beginner-friendly Machine Learning classification project to predict user ad click behavior</b>
+</p>
 
 This project focuses on predicting whether a user will click on an online advertisement using
 Machine Learning classification algorithms.
